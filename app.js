@@ -14,3 +14,12 @@ john_smith.addRental(gladiator, 5)
 
 console.log(john_smith.statement())
 
+// You should see:
+
+// Rental record for John Smith
+//   Cinderella  3
+//   Star Wars 6.5
+//   Gladiator 15
+// Amount owed is 24.5
+// You earned 4 frequent renter points.
+
